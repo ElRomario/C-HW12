@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\bin\Debug\net5.0\HW12Collections.exe
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\bin\Debug\net5.0\HW12Collections.deps.json
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\bin\Debug\net5.0\HW12Collections.runtimeconfig.json
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\bin\Debug\net5.0\HW12Collections.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\bin\Debug\net5.0\HW12Collections.dll
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\bin\Debug\net5.0\ref\HW12Collections.dll
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\bin\Debug\net5.0\HW12Collections.pdb
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\HW12Collections.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\HW12Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\HW12Collections.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\HW12Collections.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\HW12Collections.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\HW12Collections.dll
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\ref\HW12Collections.dll
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\HW12Collections.pdb
+C:\Users\ElRomario\source\repos\HW12Collections\HW12Collections\obj\Debug\net5.0\HW12Collections.genruntimeconfig.cache
